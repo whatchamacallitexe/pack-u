@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@8d3c8217ec14be44027d6fced6f837cc7ffa1249/hardware%20tycoon/">
+  <meta charset="UTF-8" />
+  <title>Hardware Tycoon</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <style>
+    * { padding: 0; margin: 0; }
+    html, body { background: #000; color: #fff; overflow: hidden; }
+    canvas { touch-action: none; }
+  </style>
+</head>
+<body>
+  <div id="c2canvasdiv">
+    <canvas id="c2canvas" width="1024" height="576"></canvas>
+  </div>
+  <script src="jquery-3.4.1.min.js"></script>
+  <script src="c2runtime.js"></script>
+  <script>
+    jQuery(document).ready(function () {
+      cr_createRuntime("c2canvas");
+    });
+  </script>
+</body>
+</html>
