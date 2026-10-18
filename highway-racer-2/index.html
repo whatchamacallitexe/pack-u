@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8">
+	<title>Highway Racer 2</title>
+	<style>
+		html, body { background: #000; width: 100%; height: 100%; overflow: hidden; padding: 0; margin: 0; }
+		div#gameContainer { background: transparent !important; position: absolute; }
+		div#gameContainer canvas { position: absolute; }
+	</style>
+</head>
+<body>
+	<div id="gameContainer">
+		<canvas id="unity-canvas"></canvas>
+		<script src="https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@c8207b769940d128480c318e32b5d366a665db5b/highway%20racer%202/Build/game.loader.js"></script>
+		<script>
+			var canvas = document.querySelector("#unity-canvas");
+			var config = {
+				dataUrl: "https://rawcdn.githack.com/bubbls/UGS-Assets/c8207b769940d128480c318e32b5d366a665db5b/highway%20racer%202/Build/game.data.unityweb",
+				frameworkUrl: "https://rawcdn.githack.com/bubbls/UGS-Assets/c8207b769940d128480c318e32b5d366a665db5b/highway%20racer%202/Build/game.framework.js.unityweb",
+				codeUrl: "https://rawcdn.githack.com/bubbls/UGS-Assets/c8207b769940d128480c318e32b5d366a665db5b/highway%20racer%202/Build/game.wasm.unityweb",
+				streamingAssetsUrl: "StreamingAssets",
+				companyName: "FreezeNova",
+				productName: "Crazy Drifter",
+				productVersion: "0.1",
+			};
+			createUnityInstance(canvas, config).then(function (instance) {
+				canvas = instance.Module.canvas;
+			});
+		</script>
+	</div>
+</body>
+</html>
