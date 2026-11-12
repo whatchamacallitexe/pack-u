@@ -1,16 +1,7 @@
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE handshakes: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE handshakes: https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/SWFs/hanger2.swf -> assets/cdn/2d99a180-hanger2.swf
-FILE hanger-2: https://cdn.jsdelivr.net/gh/bubbls/ruffle@96046a28c962eeb6d1838c31979e23f2a7344aca/hang2.js -> assets/cdn/5450cbfc-hang2.js
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE happy-wheels: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE happy-wheels: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@97af31ec5b7d4858652ff2304c42200dc472fc7d/HappyWheels.swf -> ../_shared/5ad70bc53519-HappyWheels.swf
-BASE OK bubbls/UGS-Assets@8d3c8217ec14be44027d6fced6f837cc7ffa1249/hardware tycoon -> happyroom
-BASE REWRITE happyroom
-BASE OK bubbls/UGS-Assets@8d3c8217ec14be44027d6fced6f837cc7ffa1249/hardware tycoon -> hardware-tycoon
-BASE REWRITE hardware-tycoon
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/haroldsbadday/Build/haroldsbadday.loader.js: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/haroldsbadday/Build/haroldsbadday.data: curl: (22) The requested URL returned error: 404
@@ -19,72 +10,19 @@ FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/haroldsbadday/Build/ha
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/haroldsbadday/Build/haroldsbadday.wasm: curl: (22) The requested URL returned error: 404
 
-BASE OK bubbls/youtube-playables@main/harvest-io -> harvest-io
-BASE REWRITE harvest-io
-FILE harvest-io: https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/ytgame.js -> ../_shared/20058cc162b7-ytgame.js
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE haunt-the-house: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE haunt-the-house: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@a34b064161388acc424de9635042189a9df25ca4/haunt-the-house.swf -> assets/cdn/01e96fb8-haunt-the-house.swf
-FILE helix-jump: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css -> assets/cdn/5c9e4317-style.css
-FILE helix-jump: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/UnityProgress.js -> ../_shared/fac31396a254-UnityProgress.js
-FILE helix-jump: https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@6801bd97f311bef640fafcedd8783d426423bd67/Code/Python/HelixJump.js -> assets/cdn/afec8bbc-HelixJump.js
-FILE helix-jump: https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@6801bd97f311bef640fafcedd8783d426423bd67/Code/Python/HelixJump.json -> assets/cdn/f68766bc-HelixJump.json
-FILE hextris: http://fonts.googleapis.com/css?family=Exo+2 -> assets/cdn/40018c48-fonts-40018c481f.css
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/style/fa/css/font-awesome.min.css -> assets/cdn/76088e3b-font-awesome.min.css
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/style/style.css -> assets/cdn/3ce82990-style.css
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/hammer.min.js -> assets/cdn/070d48c2-hammer.min.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/js.cookie.js -> assets/cdn/42161dd3-js.cookie.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/jsonfn.min.js -> assets/cdn/9c07a443-jsonfn.min.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/vendor/jquery.js -> assets/cdn/1b53f9ca-jquery.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/save-state.js -> assets/cdn/42112321-save-state.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/view.js -> assets/cdn/beafbe86-view.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/wavegen.js -> assets/cdn/756d24e2-wavegen.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/math.js -> assets/cdn/dc229f4c-math.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/Block.js -> assets/cdn/65baa4f6-Block.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/Hex.js -> assets/cdn/0c6a4c95-Hex.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/Text.js -> assets/cdn/21789560-Text.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/comboTimer.js -> assets/cdn/1f725343-comboTimer.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/checking.js -> assets/cdn/fa9b7ee6-checking.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/update.js -> assets/cdn/25b6f1a9-update.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/render.js -> assets/cdn/dd4b975a-render.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/input.js -> assets/cdn/0305e3c3-input.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/main.js -> assets/cdn/98a61f44-main.js
-FILE hextris: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/hextris/js/initialization.js -> assets/cdn/af195660-initialization.js
-FILE highway-racer-2: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@c8207b769940d128480c318e32b5d366a665db5b/highway%20racer%202/Build/game.loader.js -> assets/cdn/7e258ff4-game.loader.js
-BASE OK bubbls/youtube-playables@ed57fd6dbc91143221b05fdf61be73bacc375843/hill-climb-racing-lite -> hill-climb-racing-lite
-BASE REWRITE hill-climb-racing-lite
-FILE hill-climb-racing-lite: https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/ytgame.js -> ../_shared/20058cc162b7-ytgame.js
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FILE hide-n-seek: https://rawcdn.githack.com/bubbls/youtube-playables/main/ytgame.js -> assets/cdn/68ca46c5-ytgame.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE hipster-kickball: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE hipster-kickball: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@ffeade74b8927f0b8aff631569b41f497fca932f/4675-c17-800-600-hipster-kickball.swf -> ../_shared/519d78ea64e6-4675-c17-800-600-hipster-kickball.swf
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE hobo: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE hobo: https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/hobo.swf -> ../_shared/fca66e5cc245-hobo.swf
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE hobo-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE hobo-2: https://cdn.jsdelivr.net/gh/oldflashgames/games4@630f33f2ea89cfa120d42a0b3d0bf0b1f9edde8f/hobo-2-prison-brawl.swf -> ../_shared/302943eeb326-hobo-2-prison-brawl.swf
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE hobo-3: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE hobo-3: https://cdn.jsdelivr.net/gh/oldflashgames/games4@630f33f2ea89cfa120d42a0b3d0bf0b1f9edde8f/hobo-3-wante.swf -> ../_shared/c1df695193f5-hobo-3-wante.swf
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE hobo-4: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE hobo-4: https://cdn.jsdelivr.net/gh/oldflashgames/games4@630f33f2ea89cfa120d42a0b3d0bf0b1f9edde8f/hobo-4-total-war.swf -> ../_shared/e27ac0d4c501-hobo-4-total-war.swf
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE hobo-5: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE hobo-5: https://cdn.jsdelivr.net/gh/oldflashgames/games4@630f33f2ea89cfa120d42a0b3d0bf0b1f9edde8f/hobo-5-space-brawls.swf -> ../_shared/2e260c9dd07c-hobo-5-space-brawls.swf
-FILE hole-io: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/UnityProgress.js -> ../_shared/fac31396a254-UnityProgress.js
-FILE hole-io: https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@80a659a20b7bb0f4e3141cc82c64286b22bb12cc/Tcl/holeUnityLoader.js -> assets/cdn/07b7df2c-holeUnityLoader.js
-FILE hole-io: https://cdn.jsdelivr.net/gh/gertdoro/Toolkit@80a659a20b7bb0f4e3141cc82c64286b22bb12cc/Tcl/Hole.json -> assets/cdn/6499d7bb-Hole.json
-FILE hollow-knight: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap -> assets/cdn/1d6ed762-fonts-1d6ed7624a.css
-FILE hollow-knight: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Hollow%20Knight%20Beta%20v.2.gba -> assets/cdn/4150aca4-Hollow_Knight_Beta_v.2.gba
-FILE hollow-knight: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> assets/cdn/6515c379-loader.js
-FILE house-of-hazards: https://cdn.jsdelivr.net/gh/lee2sman/everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9/96/TemplateData/UnityProgress.js -> assets/cdn/1c97c589-UnityProgress.js
-FILE house-of-hazards: https://cdn.jsdelivr.net/gh/goobertime/math@12f2387f37be9b093112414ab5e6ab148c154c94/newgames/houseofhazards/UnityLoader.js -> assets/cdn/17bb3ef2-UnityLoader.js
-FILE house-of-hazards: https://cdn.jsdelivr.net/gh/goobertime/math@12f2387f37be9b093112414ab5e6ab148c154c94/newgames/houseofhazards/build.json -> assets/cdn/52b55297-build.json
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
