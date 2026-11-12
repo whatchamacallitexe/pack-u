@@ -11,7 +11,7 @@
             font-family: 'Press Start 2P', cursive;
         }
     </style>
-    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link href="assets/cdn/1d6ed762-fonts-1d6ed7624a.css" rel="stylesheet">
 </head>
 <body>
     <div style="width: 100vw; height: 100vh;">
@@ -28,13 +28,13 @@
             EJS_color = "#000000";
             EJS_startOnLoaded = true;
             EJS_pathtodata = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data";
-            EJS_gameUrl = "https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Hollow%20Knight%20Beta%20v.2.gba";
+            EJS_gameUrl = "assets/cdn/4150aca4-Hollow_Knight_Beta_v.2.gba";
             loadGame();
         }
         document.getElementById("startButton").addEventListener("click", startGame);
         function loadGame() {
             var script = document.createElement("script");
-            script.src = "https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js";
+            script.src = "assets/cdn/6515c379-loader.js";
             document.body.appendChild(script);
         }
     </script>
